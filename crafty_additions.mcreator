@@ -1,0 +1,107 @@
+{
+  "mod_elements": [
+    {
+      "name": "Salt",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salt",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/craftyadditions/block/SaltBlock.java",
+          "src/main/resources/assets/crafty_additions/blockstates/salt.json",
+          "src/main/resources/assets/crafty_additions/models/block/salt.json",
+          "src/main/resources/data/crafty_additions/loot_tables/blocks/salt.json",
+          "src/main/resources/assets/crafty_additions/models/item/salt.json"
+        ]
+      },
+      "path": "~/itens/Salt"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {
+      "block.crafty_additions.salt": "Salt"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "itens",
+        "children": [
+          {
+            "name": "Salt",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "blocks",
+        "children": []
+      },
+      {
+        "name": "GUIs",
+        "children": []
+      },
+      {
+        "name": "Effects",
+        "children": []
+      },
+      {
+        "name": "Mobs",
+        "children": []
+      },
+      {
+        "name": "Weapons_Tools",
+        "children": []
+      },
+      {
+        "name": "Equipables",
+        "children": []
+      },
+      {
+        "name": "Biomes",
+        "children": []
+      },
+      {
+        "name": "Mechanics",
+        "children": []
+      },
+      {
+        "name": "Structures",
+        "children": []
+      },
+      {
+        "name": "Weather",
+        "children": []
+      },
+      {
+        "name": "SoundEffects",
+        "children": []
+      },
+      {
+        "name": "Misc",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "crafty_additions",
+    "modName": "Crafty Additions",
+    "version": "1.0.0",
+    "author": "Diego Kaujon, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.craftyadditions"
+  },
+  "mcreatorVersion": 202400118518
+}

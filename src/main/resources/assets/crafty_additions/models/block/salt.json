@@ -1,0 +1,9 @@
+{
+  "parent": "crafty_additions:custom/salt_trail_straight",
+  "textures": {
+    "all": "crafty_additions:block/salt_trail_straight",
+    "particle": "crafty_additions:block/salt_trail_straight",
+    "0": "crafty_additions:block/salt_trail_straight"
+  },
+  "render_type": "translucent"
+}
